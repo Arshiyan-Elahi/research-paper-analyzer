@@ -1,5 +1,3 @@
-
-````markdown
 # 📑 Research Paper Analysis & Q/A Generator
 
 This project automates the **extraction and analysis of research papers**.  
